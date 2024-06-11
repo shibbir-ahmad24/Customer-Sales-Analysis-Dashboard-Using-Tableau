@@ -1,4 +1,4 @@
-# End-To-End-Customer-Analysis-Using-Tableau
+# Customer-Sales-Analysis-Dashboard
 
 This repository contains the data source (sales_06_FY2020-21.csv.zip) and the dashboard PDF.
 
