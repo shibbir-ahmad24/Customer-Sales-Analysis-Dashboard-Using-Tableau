@@ -36,7 +36,7 @@ This project underscores the importance of leveraging data visualization tools l
 
 ![Dashboard 1](https://github.com/shibbir282/End-To-End-Customer-Analysis-Using-Tableau/assets/62713622/9407e845-f8a6-41dc-8aa7-8d999ca9dee3)
 
-![Dashboard 1](https://github.com/shibbir282/Customer-Sales-Analysis-Dashboard/blob/main/End-to-End%20Customer%20Analysis%20by%20Tableau.pdf)
+[Dashboard 1](https://github.com/shibbir282/Customer-Sales-Analysis-Dashboard/blob/main/End-to-End%20Customer%20Analysis%20by%20Tableau.pdf)
 
 ### **Live Dashboard:**
 
