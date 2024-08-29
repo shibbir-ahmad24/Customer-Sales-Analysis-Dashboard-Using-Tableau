@@ -33,7 +33,7 @@ This project underscores the importance of leveraging data visualization tools l
 
 ### **Analytics Visuals**
 
-[Sales](https://github.com/shibbir282/Customer-Sales-Analysis-Dashboard-Using-Tableau/blob/main/Customer%20Sales%20Analysis%20Using%20Tableau.png)
+![Sales](https://github.com/shibbir282/Customer-Sales-Analysis-Dashboard-Using-Tableau/blob/main/Customer%20Sales%20Analysis%20Using%20Tableau.png)
 
 ### **Live Link:**
 
