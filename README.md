@@ -29,7 +29,7 @@ This project underscores the importance of leveraging data visualization tools l
 
 ### **Dataset**
 
-- sales_06_FY2020-21.csv.zip
+- [sales_data](https://www.kaggle.com/datasets/nhiyen/sales-data-fy-2020-2021)
 
 ### **Analytics Visuals**
 
