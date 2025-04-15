@@ -1,5 +1,9 @@
 # Customer Sales Analysis Dashboard Using Tableau 
 
+### **Live Demo:**
+
+[Dashboard](https://public.tableau.com/app/profile/shibbir.ahmed.arif/viz/CustomerAnalysis_17043152816930/Dashboard1)
+
 ### **Problem**
 
 In today's competitive market, businesses face challenges in understanding customer behavior, identifying sales trends, and optimizing marketing strategies. Without clear insights into revenue patterns, demographic preferences, and regional performance, companies struggle to make informed decisions. The absence of a comprehensive view of these key metrics can lead to missed opportunities and suboptimal business outcomes.
@@ -34,7 +38,3 @@ This project underscores the importance of leveraging data visualization tools l
 ### **Analytics Visuals**
 
 ![Sales](https://github.com/shibbir282/Customer-Sales-Analysis-Dashboard-Using-Tableau/blob/main/Customer%20Sales%20Analysis%20Using%20Tableau.png)
-
-### **Live Link:**
-
-[Dashboard](https://public.tableau.com/app/profile/shibbir.ahmed.arif/viz/CustomerAnalysis_17043152816930/Dashboard1)
